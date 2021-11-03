@@ -1,7 +1,7 @@
-h1 {text-align: center; font-family: serif;color: DarkgoldenRod}
-p {font-size: 6mm; font-family: sans-serif;color: magenta}
-ol {font-size: 5mm; color: tomato}
-h2 {font-family: serif;}
+h1 {text-align: center; font-family: serif;color: DarkgoldenRod; text-shadow: 2px 2px 5px black}
+p {font-size: 6mm; font-family: sans-serif;color: magenta; text-shadow: 2px 2px 5px white}
+ol {font-size: 5mm; color: tomato;}
+h2 {font-family: serif; background-color: black; color: white;}
 img {width: 100%; height: 600px}
 body {background-color: lightgreen;}
 footer {text-align: center}
